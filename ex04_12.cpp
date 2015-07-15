@@ -16,7 +16,9 @@ int main()
       total += y; // add y to total
       ++x; // increment counter x
    } // end while
+   cout << "hello world" << endl;
 
+   cout << "the perfect github" << endl;
    cout << "Total is " << total << endl; // display result
 } // end main
 
